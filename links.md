@@ -19,6 +19,9 @@ Vi editor is a text editor in Linux systems. You can create a new file or edit a
 
 3. [Count Word Occurences](https://www.tecmint.com/count-word-occurrences-in-linux-text-file/)<br>
 This page helps me with one of OS quizzes. Kindly reminding, please learn scripting.
+
+4. [Addressing, lib, and pointer recording from Mr. Anwar](https://youtu.be/aQgyZGd1MhY)<br>
+As stated in WEEK04's slide, it surely is a tough week. Here's a lecture recording to make your weekend feels better.
 <br>
 <hr>
 
