@@ -22,6 +22,9 @@ This page helps me with one of OS quizzes. Kindly reminding, please learn script
 
 4. [Addressing, lib, and pointer recording from Mr. Anwar](https://youtu.be/aQgyZGd1MhY)<br>
 As stated in WEEK04's slide, it surely is a tough week. Here's a lecture recording to make your weekend feels better.
+
+5. [Online C Compiler](https://www.onlinegdb.com/)<br>
+This compiler helps me with quizzes. And it'll help you too.
 <br>
 <hr>
 
