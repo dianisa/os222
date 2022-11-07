@@ -25,6 +25,9 @@ As stated in WEEK04's slide, it surely is a tough week. Here's a lecture recordi
 
 5. [Online C Compiler](https://www.onlinegdb.com/)<br>
 This compiler helps me with quizzes. And it'll help you too.
+
+6. [fork()](https://www.geeksforgeeks.org/fork-system-call/)<br>
+It explains about fork(), parent process, and child process.
 <br>
 <hr>
 
