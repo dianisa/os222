@@ -49,3 +49,11 @@ ZCZC W06 100 L05 Quiz related including studying
 ZCZC W06 60 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W06 60 L09 Assignment in General
 ZCZC W06 90 L99 PopQuiz related
+ZCZC W07 100 L02 ZOOM meetings related
+ZCZC W07 105 L99 Face-to-face lecture
+ZCZC W07 10 L01 SCELE/Discord related
+ZCZC W07 120 L05 Quiz related including studying
+ZCZC W07 120 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W07 100 L09 Assignment in General
+ZCZC W07 40 L99 PopQuiz related
+ZCZC W07 40 L07 Demo related

@@ -28,6 +28,9 @@ This compiler helps me with quizzes. And it'll help you too.
 
 6. [fork()](https://www.geeksforgeeks.org/fork-system-call/)<br>
 It explains about fork(), parent process, and child process.
+
+7. [Shared Memory](https://youtu.be/uHtzOFwgD74)<br>
+This video explains how processes share memories.
 <br>
 <hr>
 
