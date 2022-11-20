@@ -31,6 +31,9 @@ It explains about fork(), parent process, and child process.
 
 7. [Shared Memory](https://youtu.be/uHtzOFwgD74)<br>
 This video explains how processes share memories.
+
+8. [Packages and Patches](https://mirror.koddos.net/lfs/lfs-packages/11.2/)<br>
+Replace wget-list-sysv with this link for downloading packages and patches 999+ times faster.
 <br>
 <hr>
 
