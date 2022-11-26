@@ -34,6 +34,9 @@ This video explains how processes share memories.
 
 8. [Packages and Patches](https://mirror.koddos.net/lfs/lfs-packages/11.2/)<br>
 Replace wget-list-sysv with this link for downloading packages and patches 999+ times faster.
+
+9. [Swap-Space Management](https://www.geeksforgeeks.org/swap-space-management-in-operating-system/)<br>
+It explains about Swap-Space, an area on the disk where the swapped-out processes are stored.
 <br>
 <hr>
 
