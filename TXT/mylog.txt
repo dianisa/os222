@@ -72,3 +72,4 @@ ZCZC W09 180 L09 Assignment in General
 ZCZC W09 30 L99 PopQuiz related
 ZCZC W09 20 L07 Demo related
 ZCZC W09 105 L99 Face-to-face lecture
+ZCZC W10 30 L09 Assignment in General
